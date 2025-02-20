@@ -1,2 +1,16 @@
 # Music-Store-Data-Analytics
-A relational database for managing a music store, including artists, albums, tracks, playlists, customers, invoices, and employees. It supports music management, sales transactions, and customer billing. Designed for use with SQL-based databases.
+
+A beginner-friendly SQL project to analyze an online music store's data. This project will help you explore a music playlist database, write SQL queries, and generate insights to understand business growth.
+
+📌 What You'll Learn:
+
+How to analyze music store data using SQL
+Querying customer purchases, playlists, and sales
+Gaining insights to improve business strategies
+🎥 Complete Project Tutorial: YouTube Video
+
+🛠 Database & Tools
+PostgreSQL
+PgAdmin4
+Music Store Database
+Start exploring and enhance your SQL skills! 🚀
